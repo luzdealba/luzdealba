@@ -1,7 +1,4 @@
-## _¡Hola!_ <div style="float: right; font-size: 0.6em; font-weight: normal">[Résumé](https://docs.google.com/document/d/1L_7An3Fu_9-PUQZF-k5HJGZqDmK8HiA86VOLCsSp7bU/edit) · [CV](https://docs.google.com/document/d/1i14YQyuGeO8n7TXXsALDHI2Z4KRRYpGpw3EqsuSK4cY/edit?tab=t.0) · [LinkedIn](https://www.linkedin.com/in/emilianoluzdealba/)</div>
-<small><div style="text-align: center;">
-    [Résumé](https://docs.google.com/document/d/1L_7An3Fu_9-PUQZF-k5HJGZqDmK8HiA86VOLCsSp7bU/edit) · [CV](https://docs.google.com/document/d/1i14YQyuGeO8n7TXXsALDHI2Z4KRRYpGpw3EqsuSK4cY/edit?tab=t.0) · [LinkedIn](https://www.linkedin.com/in/emilianoluzdealba/)
-</div></small>
+## _¡Hola!_
 
 I'm **Emiliano**, a software engineer from Argentina, living in Thailand.
 
@@ -18,3 +15,5 @@ I stress-test **agentic loops** with evals and harness engineering. I maintain [
 - I organize the [Tango Chiang Mai community](https://www.instagram.com/tangochangmai/) and teach dance for free
 - I recorded [an album](https://luzdealba.bandcamp.com/)
 - I studied biology
+- - -
+<small>[Résumé](https://docs.google.com/document/d/1L_7An3Fu_9-PUQZF-k5HJGZqDmK8HiA86VOLCsSp7bU/edit) / [CV](https://docs.google.com/document/d/1i14YQyuGeO8n7TXXsALDHI2Z4KRRYpGpw3EqsuSK4cY/edit?tab=t.0) · [LinkedIn](https://www.linkedin.com/in/emilianoluzdealba/) · [Instagram](https://www.instagram.com/emilianche/) · [Email](mailto:luzdealba@gmail.com) · [WhatsApp](https://wa.me/66902136742)</small>
