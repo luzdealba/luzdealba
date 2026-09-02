@@ -16,4 +16,4 @@ I stress-test **agentic loops** with evals and harness engineering. I maintain [
 - I recorded [an album](https://luzdealba.bandcamp.com/)
 - I studied biology
 - - -
-<small>[Résumé](https://docs.google.com/document/d/1L_7An3Fu_9-PUQZF-k5HJGZqDmK8HiA86VOLCsSp7bU/edit) / [CV](https://docs.google.com/document/d/1i14YQyuGeO8n7TXXsALDHI2Z4KRRYpGpw3EqsuSK4cY/edit?tab=t.0) · [LinkedIn](https://www.linkedin.com/in/emilianoluzdealba/) · [Instagram](https://www.instagram.com/emilianche/) · [Email](mailto:luzdealba@gmail.com) · [WhatsApp](https://wa.me/66902136742)</small>
+<small>[Résumé](https://docs.google.com/document/d/1L_7An3Fu_9-PUQZF-k5HJGZqDmK8HiA86VOLCsSp7bU/edit) / [CV](https://docs.google.com/document/d/1i14YQyuGeO8n7TXXsALDHI2Z4KRRYpGpw3EqsuSK4cY/edit?tab=t.0) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/emilianoluzdealba/) &nbsp;·&nbsp; [Instagram](https://www.instagram.com/emilianche/) &nbsp;·&nbsp; [Email](mailto:luzdealba@gmail.com) &nbsp;·&nbsp; [WhatsApp](https://wa.me/66902136742)</small>
