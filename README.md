@@ -9,7 +9,7 @@ I published about engineering for SitePoint ([articles](https://www.sitepoint.co
 I've been a DBA, sysadmin, and security analyst (long ago).
 
 ### These days...
-I stress-test **agentic loops** with evals and harness engineering. I maintain [Harnix](https://github.com/anakotai/harnix), an AI readiness scanner that provides actionable feedback for better agent autonomy and deterministic results. I also engineer compliance automation for Southeast Asia at [Anakot.AI](https://github.com/anakotai).
+**I stress-test agentic loops with evals and harness engineering**. I maintain [Harnix](https://github.com/anakotai/harnix), an AI readiness scanner that provides actionable feedback for better agent autonomy and deterministic results. I also engineer compliance automation for Southeast Asia at [Anakot.AI](https://github.com/anakotai).
 
 ### Fun facts
 - I organize the [Tango Chiang Mai community](https://www.instagram.com/tangochangmai/) and teach dance for free
