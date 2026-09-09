@@ -16,9 +16,11 @@ As a freelance engineer, I've been a DBA, sysadmin, and security analyst (long a
 - I recorded [an album](https://luzdealba.bandcamp.com/)
 - I studied biology
 - - -
-[Résumé](https://docs.google.com/document/d/1L_7An3Fu_9-PUQZF-k5HJGZqDmK8HiA86VOLCsSp7bU/edit) / [CV](https://docs.google.com/document/d/1i14YQyuGeO8n7TXXsALDHI2Z4KRRYpGpw3EqsuSK4cY/edit?tab=t.0) &nbsp;·&nbsp;
+[Résumé](https://docs.google.com/document/d/1L_7An3Fu_9-PUQZF-k5HJGZqDmK8HiA86VOLCsSp7bU/edit) /
+[CV](https://docs.google.com/document/d/1i14YQyuGeO8n7TXXsALDHI2Z4KRRYpGpw3EqsuSK4cY/edit?tab=t.0) &nbsp;·&nbsp;
 [Guru](https://www.guru.com/freelancers/emiliano-bazaes) &nbsp;·&nbsp;
 [LinkedIn](https://www.linkedin.com/in/emilianche/) &nbsp;·&nbsp;
 [Instagram](https://www.instagram.com/emilianche/) &nbsp;·&nbsp;
 [Email](mailto:luzdealba@gmail.com) &nbsp;·&nbsp;
-[WhatsApp](https://wa.me/66902136742)
+[WhatsApp](https://wa.me/66902136742) &nbsp;·&nbsp;
+[Video Interview](https://youtu.be/t4O3pI8V49w)
