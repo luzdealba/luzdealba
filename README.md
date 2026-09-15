@@ -12,16 +12,15 @@ As a freelance engineer, I've been a DBA, sysadmin, and security analyst (long a
 **I stress-test agentic loops with evals and harness engineering**. I maintain [Harnix](https://github.com/anakotai/harnix), an AI readiness scanner that provides actionable feedback for better agent autonomy and deterministic results. I also engineer compliance automation for Southeast Asia at [Anakot.AI](https://github.com/anakotai).
 
 ### Fun facts
-- I organize [Tango Chiang Mai](https://www.instagram.com/tangochangmai/) and teach dance for free  
-  [Short documentary](https://www.youtube.com/watch?v=Bh_Nh3k3BWI) featuring me
+- I organize [Tango Chiang Mai](https://www.instagram.com/tangochangmai/) and teach dance for free ([short documentary](https://www.youtube.com/watch?v=Bh_Nh3k3BWI))
 - I'm a musician and recorded [an album](https://luzdealba.bandcamp.com/)
 - I studied biology
 - - -
-[Résumé](https://docs.google.com/document/d/1L_7An3Fu_9-PUQZF-k5HJGZqDmK8HiA86VOLCsSp7bU/edit) /
-[CV](https://docs.google.com/document/d/1i14YQyuGeO8n7TXXsALDHI2Z4KRRYpGpw3EqsuSK4cY/edit?tab=t.0) &nbsp;·&nbsp;
+[Résumé](https://docs.google.com/document/d/1L_7An3Fu_9-PUQZF-k5HJGZqDmK8HiA86VOLCsSp7bU/edit)
+([certifications and training](https://docs.google.com/document/d/1nSC5hrvoHY8MDT2mLuhidBZYBx6HPgY62gFsivW6JCQ/edit)) &nbsp;·&nbsp;
 [Guru](https://www.guru.com/freelancers/emiliano-bazaes) &nbsp;·&nbsp;
 [LinkedIn](https://www.linkedin.com/in/emilianche/) &nbsp;·&nbsp;
 [Instagram](https://www.instagram.com/emilianche/) &nbsp;·&nbsp;
 [Email](mailto:luzdealba@gmail.com) &nbsp;·&nbsp;
 [WhatsApp](https://wa.me/66902136742) &nbsp;·&nbsp;
-[Video Interview](https://youtu.be/t4O3pI8V49w)
+[Video](https://youtu.be/t4O3pI8V49w)
