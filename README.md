@@ -17,10 +17,12 @@ As a freelance engineer, I've been a DBA, sysadmin, and security analyst (long a
 - I studied biology
 - - -
 [Résumé](https://docs.google.com/document/d/1L_7An3Fu_9-PUQZF-k5HJGZqDmK8HiA86VOLCsSp7bU/edit)
-([certifications and training](https://docs.google.com/document/d/1nSC5hrvoHY8MDT2mLuhidBZYBx6HPgY62gFsivW6JCQ/edit)) &nbsp;·&nbsp;
+([projects](https://docs.google.com/document/d/1RMQwA8YTadTe7DuLFe25bnoeI7xeigs_h2gHQKlmHyQ/edit),
+[certifications](https://docs.google.com/document/d/1nSC5hrvoHY8MDT2mLuhidBZYBx6HPgY62gFsivW6JCQ/edit))
+&nbsp;·&nbsp;
 [Guru](https://www.guru.com/freelancers/emiliano-bazaes) &nbsp;·&nbsp;
 [LinkedIn](https://www.linkedin.com/in/emilianche/) &nbsp;·&nbsp;
 [Instagram](https://www.instagram.com/emilianche/) &nbsp;·&nbsp;
+[Video](https://youtu.be/t4O3pI8V49w)  
 [Email](mailto:luzdealba@gmail.com) &nbsp;·&nbsp;
-[WhatsApp](https://wa.me/66902136742) &nbsp;·&nbsp;
-[Video](https://youtu.be/t4O3pI8V49w)
+[WhatsApp](https://wa.me/66902136742)
